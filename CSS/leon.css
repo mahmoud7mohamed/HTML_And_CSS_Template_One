@@ -456,8 +456,8 @@ body{
 /* Start Footer */
 .footer{
     text-align: center;
-    font-size: 18px;
-    padding: 30px 10px;
+    font-size: 1.3vw;
+    padding: 25px 10px;
     color: white;
     background-color: var(--secondary-color);
 }
